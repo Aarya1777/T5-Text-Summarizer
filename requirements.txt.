@@ -1,0 +1,6 @@
+torch
+transformers
+sentencepiece
+accelerate
+pandas
+jupyterlab
