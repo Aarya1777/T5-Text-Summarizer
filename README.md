@@ -37,11 +37,9 @@ The project uses a pretrained T5-small checkpoint and explores adapting it to di
 
 ## Dataset
 
-The project uses the SAMSum dataset, which contains conversations and human-written summaries.
+This project uses the SAMSum dataset, which contains conversations paired with human-written summaries.
 
-The dataset is used to explore supervised fine-tuning for dialogue summarization.
-
-Dataset files are not included in this repository. Obtain them from an authorized source and place the required CSV files in the project directory before running the relevant notebook cells.
+The dataset files are not included in this repository. Users can access the dataset through the [SAMSum dataset page on Hugging Face](https://huggingface.co/datasets/Samsung/samsum).
 
 ## Project Structure
 
